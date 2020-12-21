@@ -1,2 +1,2 @@
 # demo-repo
-learning Git
+learning Gi
